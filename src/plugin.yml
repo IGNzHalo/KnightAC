@@ -1,0 +1,4 @@
+name: KnightAC
+version: 1.0
+description: AntiCheat
+main: zhalo.alliance.knightac.Main
